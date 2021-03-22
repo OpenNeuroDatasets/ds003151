@@ -1,26 +1,12 @@
 {
-    "Acknowledgements": "doi: 10.1002/hbm.20312, doi: 10.1016/j.jneumeth.2016.03.001",
-    "Authors": [
-        "Alexandra Ycaza Herrera, Ph.D.",
-        "Ricardo Velasco",
-        "Sophia Faude",
-        "Jessica D. White",
-        "Philipp C. Opitz, Ph.D.",
-        "Ringo Huang",
-        "Kristie Tu",
-        "Mara Mather, Ph.D."
-    ],
+    "Acknowledgements": "",
+    "Authors": [],
     "BIDSVersion": "1.0.2",
-    "DatasetDOI": "10.18112/openneuro.ds003151.v1.0.0",
-    "Funding": [
-        "National Institute on Aging Grants R21AG048463 and R01AG025340"
-    ],
-    "HowToAcknowledge": "Please cite this paper: doi: 10.1016/j.ynstr.2020.100248",
-    "License": "CC0",
-    "Name": "Brain activity during a post-stress working memory task across the hormonal contraceptive cycle",
-    "ReferencesAndLinks": [
-        "Herrera, A. Y., Velasco, R., Faude, S., White, J., Opitz, P. C., Huang, R., Tu, K., & Mather, M. (2020). Brain activity during a post-stress working memory task differs between the hormone-present and hormone-absent phase of hormonal contraception. Neurobiology of Stress, 100248 https://doi.org/10.1016/j.ynstr.2020.100248",
-        "Behavioral and demographic data can be found at https://osf.io/b3znw/?view_only=c30f4b45a7a544e782c22188026c11db"
-    ],
+    "DatasetDOI": "",
+    "Funding": [],
+    "HowToAcknowledge": "",
+    "License": "",
+    "Name": "2018_Alex_HC",
+    "ReferencesAndLinks": [],
     "template": "project"
 }
