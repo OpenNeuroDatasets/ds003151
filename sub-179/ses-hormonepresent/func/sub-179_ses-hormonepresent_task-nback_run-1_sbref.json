@@ -1,4 +1,5 @@
 {
+    "AcquisitionDateTime": "2016-09-16T13:47:15.217500",
     "AcquisitionMatrixPE": 64,
     "AcquisitionNumber": 1,
     "AcquisitionTime": "13:47:15.217500",
@@ -43,16 +44,19 @@
     "Modality": "MR",
     "ParallelReductionFactorInPlane": 2,
     "PartialFourier": 1,
+    "PatientBirthDate": "1993-01-01",
     "PatientID": "16.09.16-13:19:21-DST-1.3.12.2.1107.5.2.43.67025",
     "PatientName": "8933MM",
     "PatientPosition": "HFS",
     "PatientSex": "F",
+    "PatientWeight": 54.4311,
     "PercentPhaseFOV": 100,
     "PercentSampling": 100,
     "PhaseEncodingDirection": "j-",
     "PhaseEncodingSteps": 64,
     "PhaseResolution": 1,
     "PixelBandwidth": 2520,
+    "ProcedureStepDescription": "Mara_Alex",
     "ProtocolName": "frmi-nback",
     "PulseSequenceDetails": "%SiemensSeq%_ep2d_pace",
     "ReceiveCoilActiveElements": "HEA;HEP",
@@ -127,7 +131,6 @@
     "StationName": "MRC35039",
     "StudyID": "1",
     "StudyInstanceUID": "1.3.12.2.1107.5.2.43.67025.30000016091616070830400000007",
-    "TaskName": "nback",
     "TotalReadoutTime": 0.0154349,
     "TxRefAmp": 229.648
 }
