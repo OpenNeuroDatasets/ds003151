@@ -1,2 +1,13 @@
-The n-back task was adapted from Qin et al. (2009). Prior to stress exposure, women were trained on the n-back task and then completed one pre-stress block outside of the MRI scanner. Two blocks of the post-stress n-back task were completed in the MRI scanner, beginning approximately 20 minutes after CPT onset and lasting approximately 16 minutes (i.e., taking place between 20 minutes to 36 minutes post-stress onset). Each run of the n-back task consisted of 10 alternating trials: five were 2-back trials and five were 0-back trials. Each trial lasted 27 seconds and consisted of 15 randomly selected single digits presented serially for 400ms each and a 1400ms interstimulus interval. The jittered intertrial interval was 8-12s (average = 10s). Immediately prior to each trial participants were shown a 2-second cue disclosing whether the upcoming trial was 0-back or 2-back. Two target digits (13%) were shown per trial. Position of the target digits within the serial array of presented digits was randomized. 
-During the pre-stress run of the n-back task outside of the scanner, women were told to press a key on a computer keyboard whenever a target digit was presented on the screen. During the post-stress runs of the n-back task inside the MRI scanner, women were told to press a button on a response button box located in their left (non-dominant) hand whenever a target digit appeared on the screen. Prior to beginning the post-stress MRI runs of the task, the response button box was tested to ensure women knew which buttons to press and that responses were being recorded by the computer.  Women were able to take a break between the two post-stress n-back blocks and took an average of 16 minutes to complete both MRI runs. 
+These task-associated and resting state fMRI data have been published in:
+	
+Herrera, A. Y., Velasco, R., Faude, S., White, J. D., Opitz, P. C., Huang, R., Tu, K., & Mather, M. (2020). Brain activity during a post-stress working memory task differs between the hormone-present and hormone-absent phase of hormonal contraception. Neurobiology of Stress, 13, 100248.
+	
+Nasseri, P., Herrera, A. Y., Gillette, K., Faude, S., White, J. D., Velasco, R., & Mather, M. (2020). Hormonal contraceptive phases matter: Resting-state functional connectivity of emotion-processing regions under stress. Neurobiology of Stress, 13, 100276.
+	
+Demographic and behavioral data can be found at https://osf.io/b3znw/?view_only=c30f4b45a7a544e782c22188026c11db
+	
+There are folders for each participant with their subject number (e.g., “sub-170”). Each participant folder contains one folder each for the hormone-present and hormone-absent phases. Within each phase folder there are 3 folders:
+	
+1) anat - includes a T1 structural scan.
+2) func - all nback-related BOLD scans are included in this folder with event timings indicated in .tsv files. Please see paper for more details.
+3) perf - resting state arterial spin labeling scans are included in this folder.
