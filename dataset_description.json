@@ -22,6 +22,6 @@
         "National Institute on Aging (R21AG048463 and R01AG025340; PI: M.Mather)"
     ],
     "HowToAcknowledge": "For working memory fMRI results, please cite:\n\nHerrera, A. Y., Velasco, R., Faude, S., White, J. D., Opitz, P. C., Huang, R., Tu, K., & Mather, M. (2020). Brain activity during a post-stress working memory task differs between the hormone-present and hormone-absent phase of hormonal contraception. Neurobiology of Stress, 13, 100248.\n\nFor ASL resting state results, please cite:\n\nNasseri, P., Herrera, A. Y., Gillette, K., Faude, S., White, J. D., Velasco, R., & Mather, M. (2020). Hormonal contraceptive phases matter: Resting-state functional connectivity of emotion-processing regions under stress. Neurobiology of Stress, 13, 100276.",
-    "DatasetDOI": "10.18112/openneuro.ds003151.v2.0.0",
+    "DatasetDOI": "10.18112/openneuro.ds003151.v2.0.1",
     "template": "project"
 }
